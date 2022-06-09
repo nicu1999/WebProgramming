@@ -1,0 +1,6 @@
+FROM node:14-alpine
+RUN mkdir -p /home/server
+COPY ./mail-handler.js /home/server
+CMD ["cd", "/home/server"]
+RUN npm install amqplib
+CMD ["node", "mail-handler.js"]
