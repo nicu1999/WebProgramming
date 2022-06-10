@@ -1,7 +1,7 @@
 # Refugee Helper - Final assignment for Web Programming Course
 
 # Description
-This is an single page application built using Vue 3, Auth0, the Google Maps Javascript API, Node.js and Mongodb. 
+This is an single page application built using Vue 3, Auth0, the Google Maps Javascript API, Node.js, Mongodb and Docker. 
 
 ## Features
 	REFUGEE USER STORIES:
