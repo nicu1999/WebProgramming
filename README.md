@@ -24,7 +24,7 @@ This is an single page application built using Vue 3, Auth0, the Google Maps Jav
 ![Architecture](https://user-images.githubusercontent.com/44942678/172966687-53cd3bdb-edeb-4d5b-b087-eca19800787b.png)
 
 ## Images
-![New Bitmap image (2)](https://user-images.githubusercontent.com/44942678/172967118-08da2c7a-02fb-4325-9b65-930ec36a76f0.png){:width=50%}
+![New Bitmap image (2)](https://user-images.githubusercontent.com/44942678/172967118-08da2c7a-02fb-4325-9b65-930ec36a76f0.png){:height="36px" width="36px"}.
 
 ![New Bitmap image (3)](https://user-images.githubusercontent.com/44942678/172967163-1c41ce50-3bb3-4ed8-ab68-b59c546aa28e.png)
 
