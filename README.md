@@ -57,3 +57,21 @@ This is an single page application built using Vue 3, Auth0, the Google Maps Jav
 ![Login 2](https://user-images.githubusercontent.com/44942678/172969475-1506221f-bd03-4d3e-b9b0-77c3b1f549f2.jpg)
 
 ![Login 1](https://user-images.githubusercontent.com/44942678/172969470-89b2c0e1-9e7e-4db8-a201-de9a1267ae3a.jpg)
+
+### Side Menu & Select Waypoint
+
+![Open Menu, Open D Waypoint](https://user-images.githubusercontent.com/44942678/172973490-0ccf3093-7bc1-40ac-8cd1-4aa2352c11a0.jpg)
+
+### Email Admin (as an User)
+
+![Add Email 1](https://user-images.githubusercontent.com/44942678/172973530-a6e77289-f16a-4090-8ffa-78fb13809acf.jpg)
+
+![Add Email 2](https://user-images.githubusercontent.com/44942678/172973540-0bea1459-7a08-409b-88ff-e9083ce294dc.jpg)
+
+### Add Waypoint (as an Admin)
+
+![Add Waypoint](https://user-images.githubusercontent.com/44942678/172973568-6793c524-fba4-4f20-82bf-fa4fc2ce0158.jpg)
+
+### See all Waypoints
+
+![Open Waypoint Menu](https://user-images.githubusercontent.com/44942678/172973609-3cc14f7b-81d0-41e9-9e3a-15f675eac714.jpg)
