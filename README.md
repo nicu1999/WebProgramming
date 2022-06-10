@@ -1,13 +1,11 @@
 # Final assignment for Web Programming Course 
 
-
-###Terminology:
-
+## Features
 	WAYPOINT: Location on map. Can be "friendly" or "dangerous". 
 	
 	Is comprised of a physical location you can see on the map.
-	Waypoints can be added on the map:
-		-an application admin adds it (can be friendly/dangerous)
+	
+	Waypoints can be added on the map by an app admin
 
 	If you acces it (by clicking) you can see its description (if it has any), its comment section and it's attributes.
 
@@ -19,7 +17,7 @@
 	Dangerous waypoints have a red zone/circle around the physical location.
 
 
-###User stories:
+## User stories:
 
 	REFUGEE USER STORIES:
 
@@ -44,5 +42,3 @@
 
 	As an admin I can add/delete/modify a waypoint.
 
-
-----------------------------------------------------------------------------------------------------------------------------------
