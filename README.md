@@ -31,7 +31,7 @@
 
 	As an user, I can acces any waypoint dangerous waypoints and see the comments and attributes related to the dangerous zone.
 
-	As an user,	I can add a comments.
+	As an user, I can add a comments.
 	
 
 	ADMIN USER STORIES:
