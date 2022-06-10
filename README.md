@@ -1,4 +1,7 @@
-# Final assignment for Web Programming Course 
+# Refugee Helper - Final assignment for Web Programming Course
+
+# Description
+This is an single page application built using Vue 3, Auth0, the Google Maps Javascript API, Node.js and Mongodb. 
 
 ## Features
 	WAYPOINT: Location on map. Can be "friendly" or "dangerous". 
@@ -16,6 +19,9 @@
 
 	Dangerous waypoints have a red zone/circle around the physical location.
 
+## Architecture
+
+![Architecture](https://user-images.githubusercontent.com/44942678/172966687-53cd3bdb-edeb-4d5b-b087-eca19800787b.png)
 
 ## User stories:
 
