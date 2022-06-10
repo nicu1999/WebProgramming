@@ -4,7 +4,7 @@
 This is an single page application built using Vue 3, Auth0, the Google Maps Javascript API, Node.js and Mongodb. 
 
 ## Features
-	REFUGEE USER STORIES:
+	### REFUGEE USER STORIES:
 
 	As an user I can login and access my profile.
 
@@ -19,7 +19,7 @@ This is an single page application built using Vue 3, Auth0, the Google Maps Jav
 	As an user, I can add a comments.
 	
 
-	ADMIN USER STORIES:
+	### ADMIN USER STORIES:
 
 	As an admin I have all the privileges of regular users and waypoint admins.
 
@@ -27,7 +27,8 @@ This is an single page application built using Vue 3, Auth0, the Google Maps Jav
 
 	As an admin I can add/delete/modify a waypoint.
 
-	WAYPOINT: Location on map. Can be "friendly" or "dangerous". 
+	
+	### WAYPOINT: Location on map. Can be "friendly" or "dangerous". 
 	
 	Is comprised of a physical location you can see on the map.
 	
