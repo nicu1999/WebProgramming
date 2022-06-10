@@ -1,7 +1,7 @@
 # Final assignment for Web Programming Course 
 
 
-TERMINOLOGY:
+###Terminology:
 
 	WAYPOINT: Location on map. Can be "friendly" or "dangerous". 
 	
@@ -19,7 +19,7 @@ TERMINOLOGY:
 	Dangerous waypoints have a red zone/circle around the physical location.
 
 
-USER STORIES:
+###User stories:
 
 	REFUGEE USER STORIES:
 
