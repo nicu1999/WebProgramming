@@ -4,7 +4,7 @@
 This is an single page application built using Vue 3, Auth0, the Google Maps Javascript API, Node.js and Mongodb. 
 
 ## Features
-	### REFUGEE USER STORIES:
+	REFUGEE USER STORIES:
 
 	As an user I can login and access my profile.
 
@@ -19,7 +19,7 @@ This is an single page application built using Vue 3, Auth0, the Google Maps Jav
 	As an user, I can add a comments.
 	
 
-	### ADMIN USER STORIES:
+	ADMIN USER STORIES:
 
 	As an admin I have all the privileges of regular users and waypoint admins.
 
@@ -28,7 +28,7 @@ This is an single page application built using Vue 3, Auth0, the Google Maps Jav
 	As an admin I can add/delete/modify a waypoint.
 
 	
-	### WAYPOINT: Location on map. Can be "friendly" or "dangerous". 
+	WAYPOINT: Location on map. Can be "friendly" or "dangerous". 
 	
 	Is comprised of a physical location you can see on the map.
 	
@@ -48,6 +48,9 @@ This is an single page application built using Vue 3, Auth0, the Google Maps Jav
 ![Architecture](https://user-images.githubusercontent.com/44942678/172966687-53cd3bdb-edeb-4d5b-b087-eca19800787b.png)
 
 ## Images
-![New Bitmap image (2)](https://user-images.githubusercontent.com/44942678/172967118-08da2c7a-02fb-4325-9b65-930ec36a76f0.png)
 
-![New Bitmap image (3)](https://user-images.githubusercontent.com/44942678/172967163-1c41ce50-3bb3-4ed8-ab68-b59c546aa28e.png)
+### Login Interface
+
+![Login 1](https://user-images.githubusercontent.com/44942678/172969470-89b2c0e1-9e7e-4db8-a201-de9a1267ae3a.jpg)
+
+![Login 2](https://user-images.githubusercontent.com/44942678/172969475-1506221f-bd03-4d3e-b9b0-77c3b1f549f2.jpg)
